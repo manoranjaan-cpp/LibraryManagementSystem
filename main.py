@@ -1,4 +1,2 @@
 print("Library Management System Started")
-print("Student Registration Module - Day 1")
-print("Student data validation added - Day 2")
-print("Login feature added")
+print("Login from conflict branch")
