@@ -1,2 +1,2 @@
 print("Library Management System Started")
-print("Login feature added")
+print("Student Registration Module - Day 1")
